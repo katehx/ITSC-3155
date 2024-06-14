@@ -19,9 +19,9 @@ recipes = {
     },
     "large": {
         "ingredients": {
-            "bread": 8,  ## slice
-            "ham": 10,  ## slice
-            "cheese": 14,  ## ounces
+            "bread": 6,  ## slice
+            "ham": 8,  ## slice
+            "cheese": 12,  ## ounces
         },
         "cost": 5.5,
     }
