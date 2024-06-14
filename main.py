@@ -62,7 +62,7 @@ class SandwichMachine:
         print("Machine will now turn off.")
 
 
-    # Return the current amount for each resource
+    # Return the current amount for each of the resources
     def show_report(self):
         # Return bread inventory
         print(f'Bread: {self.machine_resources["bread"]} slice(s)')
